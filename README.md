@@ -1,7 +1,10 @@
 Vehicle-Scraping-Services/
 ├── index.html
+
 ├── styles.css
+
 ├── scripts.js
+
 └── images/
     ├── bike.jpg
     ├── scooty.jpg
