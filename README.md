@@ -1,4 +1,5 @@
 Vehicle-Scraping-Services/
+
 ├── index.html
 
 ├── styles.css
@@ -7,9 +8,13 @@ Vehicle-Scraping-Services/
 
 └── images/
     ├── bike.jpg
+    
     ├── scooty.jpg
+    
     ├── car.jpg
+    
     ├── truck.jpg
+    
     └── videoplayback.mp4
 
 - `index.html`: Main HTML file with content and structure.
